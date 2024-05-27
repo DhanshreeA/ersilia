@@ -31,7 +31,7 @@ python = ">=3.8"
 inputimeout = "^1.0.4"
 emoji = "^2.8.0"
 validators = "~0.21.0"
-pandas = "~1.3.0",
+pandas = "~1.3.0"
 h5py = "^3.7.0" # For compatibility with isaura
 loguru = "^0.6.0" # For compatibility with isaura
 pyairtable = "<3"
