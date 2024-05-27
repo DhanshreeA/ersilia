@@ -10,7 +10,6 @@ repository = "https://github.com/ersilia-os/ersilia"
 documentation = "https://ersilia.io/model-hub"
 keywords= ["drug-discovery", "machine-learning", "ersilia", "open-science", "global-health", "model-hub", "infectious-diseases"]
 classifiers=[
-        "Programming Language :: Python :: 3.7",
         "Programming Language :: Python :: 3.8",
         "Programming Language :: Python :: 3.9",
         "Programming Language :: Python :: 3.10",
